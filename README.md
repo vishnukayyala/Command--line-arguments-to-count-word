@@ -32,7 +32,8 @@ print("Total no of words in file is",wordcount)
 fp.close()
 ```
 ### OUTPUT:
-![image](https://github.com/23002248/Command--line-arguments-to-count-word/assets/151701774/7e98e5c0-7b63-4dd4-bcbb-6bff42c95757)
+![image](https://github.com/23002248/Command--line-arguments-to-count-word/assets/151701774/ad25f8bc-2999-4f4f-9ad0-1059e7366a0a)
+
 
 
 ## RESULT:
